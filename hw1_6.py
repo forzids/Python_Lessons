@@ -11,3 +11,5 @@ while km < req_km:
 if km >= req_km:
     print(f"Requested kms will be reached on day {days}")
 
+
+
