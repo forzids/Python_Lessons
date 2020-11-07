@@ -19,3 +19,6 @@ elif rev == exp:
     print("We have a zero")
 else:
     print("Bad news, we have a loss")
+
+
+

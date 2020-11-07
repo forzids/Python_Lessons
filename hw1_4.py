@@ -10,3 +10,4 @@ while user_num != 0:
     user_num = i
     continue
 print("Max digit is:", max_dig)
+
